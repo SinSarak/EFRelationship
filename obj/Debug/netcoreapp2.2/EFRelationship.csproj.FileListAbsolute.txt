@@ -1,0 +1,10 @@
+D:\Mine\Projects\EFRelationship\bin\Debug\netcoreapp2.2\EFRelationship.deps.json
+D:\Mine\Projects\EFRelationship\bin\Debug\netcoreapp2.2\EFRelationship.runtimeconfig.json
+D:\Mine\Projects\EFRelationship\bin\Debug\netcoreapp2.2\EFRelationship.runtimeconfig.dev.json
+D:\Mine\Projects\EFRelationship\bin\Debug\netcoreapp2.2\EFRelationship.dll
+D:\Mine\Projects\EFRelationship\obj\Debug\netcoreapp2.2\EFRelationship.csproj.CoreCompileInputs.cache
+D:\Mine\Projects\EFRelationship\obj\Debug\netcoreapp2.2\EFRelationship.AssemblyInfoInputs.cache
+D:\Mine\Projects\EFRelationship\obj\Debug\netcoreapp2.2\EFRelationship.AssemblyInfo.cs
+D:\Mine\Projects\EFRelationship\bin\Debug\netcoreapp2.2\EFRelationship.pdb
+D:\Mine\Projects\EFRelationship\obj\Debug\netcoreapp2.2\EFRelationship.dll
+D:\Mine\Projects\EFRelationship\obj\Debug\netcoreapp2.2\EFRelationship.pdb
